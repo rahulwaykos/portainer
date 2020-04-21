@@ -6,7 +6,9 @@ Its a web UI that allows you to easily manage your Docker containers, images, ne
 
 # How to deploy
 
-Simply run the setup script from this repository. And access the port 9000 on server where Portainer is running
+Simply run the setup script from this repository. And access the port 9000 on server where Portainer is running.
+
+            sh setup
 
 #  Agent
 
